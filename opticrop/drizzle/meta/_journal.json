@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1783352325337,
+      "tag": "0000_calm_forge",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1783353775854,
+      "tag": "0001_rich_warlock",
+      "breakpoints": true
+    }
+  ]
+}
